@@ -10,12 +10,6 @@
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
     </style>
 </head>
-<body class="flex justify-center items-center" style="background: #1A4D2E;">
-<div class="main-container relative flex justify-center items-center h-screen">
-    <div class="child-container">
-        <img src="/images/Tuon.png" alt="Tuon" class="h-48" />
-    </div>
-</div>
 <body class="flex justify-center items-center" style="background: #f6f6f6;">
     <div class="flex justify-center items-center min-h-screen">
       <div class="text-center">
@@ -43,7 +37,7 @@
                       </g>
                   </svg>
               </button>
-              <audio id="myAudio" controls autoplay class="hidden" src="/sounds/Queen - Bohemian Rhapsody (Official Video)(M4A_128K).m4a"></audio>
+              <audio id="myAudio" controls autoplay class="hidden" src="/sounds/Tuon.m4a"></audio>
           </div>
       </div>
   </div>
